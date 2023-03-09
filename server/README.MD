@@ -49,8 +49,6 @@ This code source was developed with the following technologies:
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v14.16](https://nodejs.org/en/) or higher + [NPM v8](https://nodejs.org/en/) or higher installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/felipeAguiarCode/node-chatgpt-api
 
 # Go into the repository
 $ cd node-chatgpt-api
